@@ -13,6 +13,11 @@ DIAGRAM:
 
 
 CIRCUIT DIAGRAM:
+
+
+
+
+
 <img width="806" height="391" alt="image" src="https://github.com/user-attachments/assets/a716dcd6-56c3-4dd9-b274-c63cfb97b538" />
 
 
